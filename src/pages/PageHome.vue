@@ -28,7 +28,7 @@ export default {
   methods: {
           downloadResume() {
               axios({
-                    url: 'https://api.pryspry.com/uploads/adeaddad7957402c9262fc32d4ce4677.pdf',
+                    url: 'https://api.pryspry.com/uploads/a0e671cd025841e7b3642ceedcea0716.pdf',
                     method: 'GET',
                     responseType: 'blob',
                 }).then((response) => {
