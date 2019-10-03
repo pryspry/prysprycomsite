@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7651eafce5b67100486338c3d613449d.js"
+  "/precache-manifest.06d4ae68783bc269d87ae2b981bccf6b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "prysprycom"});
